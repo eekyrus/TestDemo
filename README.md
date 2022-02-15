@@ -1,6 +1,8 @@
 **RUNNING TESTS**
 
-Prerequisites: JDK 1.8 or later installed
+Prerequisites: 
+- JDK 1.8 or later installed
+- Chrome v98 (probably works with other versions as well)
 
 Clone this repository using git or manually download zipped contents and extract them.
 Open terminal in projects directory and run 'gradlew test' command. ..or you can use your preferred IDE to edit and run tests.
