@@ -5,7 +5,7 @@ Prerequisites:
 - Chrome v98 (probably works with other versions as well)
 
 Clone this repository using git or manually download zipped contents and extract them.
-Open terminal in projects directory and run 'gradlew test' command. ..or you can use your preferred IDE to edit and run tests.
+Open terminal in project's directory and run 'gradlew test' command. ..or you can use your preferred IDE to edit and run tests.
 There are 4 empty test methods in the project so terminal should print that all 4 tests have successfully passed.
 
 **TASKS**
