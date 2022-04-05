@@ -26,4 +26,4 @@ Using Selenium's Page Object pattern:
 
 The tests should preferably be runnable using 'gradlew test' command to execute gradle's test task but can also be ran using java command.
 
-Either send your zipped source code to recruitment contact via email or create a pull request of the test implementations to this repository.
+**Please send your zipped source code to recruitment contact via email.**
